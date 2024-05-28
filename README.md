@@ -15,7 +15,7 @@
    
 - Atualização:
 
-   Caso o diretório "node_modules" tenha sido apagado basta executar o comando npm a seguir recriar a pasta e os arquivos das dependências.
+   Caso o diretório "node_modules" tenha sido apagado basta executar o comando npm a seguir para recriar a pasta e os arquivos das dependências.
    
    <pre><code>npm update</code></pre>   
 
